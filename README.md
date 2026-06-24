@@ -1,0 +1,1 @@
+Because this is an indie open-source application, Windows SmartScreen may flag the installer as unrecognized. You will need to click More Info -> Run Anyway to allow the setup script to download the required Python environment.
